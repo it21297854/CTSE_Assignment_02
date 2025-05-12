@@ -1,0 +1,3 @@
+Question: what is Microservices
+Answer: Microservices are a software development approach where an application is developed as a set of small, autonomous services that work together to form a complete application. Each service is focused on a specific business function and can be developed, deployed, and scaled independently. Microservices architecture allows for greater flexibility, agility, and scalability compared to monolithic architecture where the entire application is developed as a single unit.
+--------------------------------------------------------------------------------

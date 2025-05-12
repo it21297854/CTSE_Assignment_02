@@ -1,0 +1,14 @@
+Question: tell me the types of Cloud Design Patterns
+Answer: Based on the provided context, the types of Cloud Design Patterns mentioned are as follows:
+
+1. Cache-Aside Pattern
+   - Solutions: Azure Cache, AWS ElastiCache, Google App Engine memcache, Redis Cache
+   - Pros: Increased performance
+   - Cons: Maintaining consistency between data in cache & data in the underlying data store
+   - Parameters: What to cache, Lifetime of cached data, Cache size, Evicting data, In-Memory Caching for read/write performance
+
+2. Competing Consumers Pattern
+   - Goals: Optimize throughput, improve scalability & availability, load balancing
+   - When: Independent tasks that can be processed in parallel, Volume of work is highly variable, High availability
+   -
+--------------------------------------------------------------------------------
